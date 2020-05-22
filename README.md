@@ -9,7 +9,7 @@ Some crucial things you'll need to install to modify the code base:
 
 Unity is used to directly modify the application itself. Android's Command Line Tools are used to install the application on the Oculus. 
 
-On my personal installation, in terminal I had to call bash_profile every time to install/uninstall the application:
+On my personal installation, in terminal I had to call bash_profile in every new instance of terminal to install/uninstall the application:
 
 * `source ~/.bash_profile`
 
